@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp2.2\AdmRes.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\netcoreapp3.1\AdministracionResidencial.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp2.2\AdmRes.deps.json" />
+    <Content Include="bin\Debug\netcoreapp2.2\AdmRes.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp2.2\AdmRes.runtimeconfig.json" />
+    <Content Include="obj\AdministracionResidencial.csproj.nuget.dgspec.json" />
+    <Content Include="obj\AdmRes.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\netcoreapp2.2\AdmRes.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp2.2\AdmRes.dll" />
+    <None Include="bin\Debug\netcoreapp2.2\AdmRes.pdb" />
+    <None Include="obj\AdministracionResidencial.csproj.nuget.cache" />
+    <None Include="obj\AdministracionResidencial.csproj.nuget.g.props" />
+    <None Include="obj\AdministracionResidencial.csproj.nuget.g.targets" />
+    <None Include="obj\AdmRes.csproj.nuget.cache" />
+    <None Include="obj\AdmRes.csproj.nuget.g.props" />
+    <None Include="obj\AdmRes.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\netcoreapp2.2\AdmRes.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp2.2\AdmRes.assets.cache" />
+    <None Include="obj\Debug\netcoreapp2.2\AdmRes.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netcoreapp2.2\AdmRes.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp2.2\AdmRes.dll" />
+    <None Include="obj\Debug\netcoreapp2.2\AdmRes.pdb" />
+    <None Include="obj\Debug\netcoreapp3.1\AdministracionResidencial.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\AdministracionResidencial.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\AdministracionResidencial.csprojAssemblyReference.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\netcoreapp3.1\" />
+  </ItemGroup>
+
+</Project>
